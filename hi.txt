@@ -1,0 +1,10 @@
+Control panel username:	freev_33351456
+Control panel password:	**********
+Control panel URL:	cpanel.freevnn.com
+MySQL username	freev_33351456
+MySQL password:	**********
+MySQL hostname:	sql102.freevnn.com
+FTP username:	freev_33351456
+FTP password:	**********
+FTP host name:	ftp.freevnn.com
+Your Website URL:	http://namcode.freevnn.com
